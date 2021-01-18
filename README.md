@@ -1,4 +1,4 @@
-# Azure Messagin Services - Batch Sending 
+# Azure Messaging Services - Batch Sending 
 
 This sample Console Application shows  how to use netcore and Azure SDK to send Batch messages to Azure Service Bus and Azure Event Hub
 
